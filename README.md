@@ -7,13 +7,13 @@ I am an aspiring **Information Technology professional** with hands-on experienc
 My work focuses on **AWS automation, CI/CD pipelines, Infrastructure as Code, and backend development**, while continuously strengthening my foundations in software engineering and clean coding practices. I actively collaborate in team environments, align technical solutions with business goals, and strive to deliver high-quality, reliable outcomes.
 
 <p align="left">
-   <a href="https://github.com/your-github-username">
-      <img alt="GitHub followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/your-github-username?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+   <a href="https://github.com/mudassirfaaiz15">
+      <img alt="GitHub followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/mudassirfaaiz15?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
    </a>
-   <a href="https://github.com/your-github-username?tab=repositories">
-      <img alt="GitHub stars" title="GitHub stars" src="https://custom-icon-badges.demolab.com/github/stars/your-github-username?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+   <a href="https://github.com/mudassirfaaiz15?tab=repositories">
+      <img alt="GitHub stars" title="GitHub stars" src="https://custom-icon-badges.demolab.com/github/stars/mudassirfaaiz15?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
    </a>
-   <a href="https://www.linkedin.com/in/your-linkedin">
+   <a href="https://www.linkedin.com/in/mohammed-mudassir-faaiz-355694293/">
       <img alt="LinkedIn" title="Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
 </p>
@@ -97,5 +97,4 @@ To build a strong career in **Cloud, DevOps, and Software Engineering**, contrib
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=gruvbox)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mudassirfaaiz15&show_icons=true&theme=gruvbox)
