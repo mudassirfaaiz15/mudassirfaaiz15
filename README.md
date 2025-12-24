@@ -1,11 +1,3 @@
-<style>
-img {
-  transition: transform 0.3s ease;
-}
-img:hover {
-  transform: scale(1.15);
-}
-</style>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F7A41D&center=true&vCenter=true&width=900&lines=Cloud+%26+DevOps+Engineer+in+the+Making;AWS+Automation+%7C+CI%2FCD+Pipelines;Infrastructure+as+Code+%7C+Docker+%26+Kubernetes;Building+Scalable+Cloud-Native+Systems" />
