@@ -1,31 +1,101 @@
-<h1 align="center">Hi 👋, I'm Mohammed Mudassir Faaiz</h1>
-<h3 align="center">I am an aspiring IT professional currently pursuing a degree in Information Technology at Aditya University, with a strong interest in cloud computing, full stack development, and data analytics.</h3>
+# 👨‍💻 Mohammed Mudassir Faaiz  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mudassirfaaiz15&label=Profile%20views&color=0e75b6&style=flat" alt="mudassirfaaiz15" /> </p>
+**`Cloud & DevOps Enthusiast | Full-Stack Learner | AWS Automation Builder`**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mudassirfaaiz15" alt="mudassirfaaiz15" /></a> </p>
+I am an aspiring **Information Technology professional** with hands-on experience in **cloud computing, DevOps automation, and application development**. I enjoy transforming real-world problems into scalable technical solutions using modern cloud and development tools.
 
-- 👨‍💻 All of my projects are available at [https://personal-portfolio-teal-alpha.vercel.app/](https://personal-portfolio-teal-alpha.vercel.app/)
+My work focuses on **AWS automation, CI/CD pipelines, Infrastructure as Code, and backend development**, while continuously strengthening my foundations in software engineering and clean coding practices. I actively collaborate in team environments, align technical solutions with business goals, and strive to deliver high-quality, reliable outcomes.
 
-- 📫 How to reach me **mudassirfaaiz@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohammed-mudassir-faaiz-355694293/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-mudassir-faaiz-355694293/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/mdmudassirfaaiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mdmudassirfaaiz" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/mudassirfaaiz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/mudassirfaaiz" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/mudassirfaaiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/mudassirfaaiz" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/mudassirfaaiz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/mudassirfaaiz/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerearth.com/@mudassirfaaiz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@mudassirfaaiz/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/mudassir_2027/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/mudassir_2027/" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/https://profiles.topcoder.com/mudassir_faaiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="https://profiles.topcoder.com/mudassir_faaiz" height="30" width="40" /></a>
+   <a href="https://github.com/your-github-username">
+      <img alt="GitHub followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/your-github-username?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+   </a>
+   <a href="https://github.com/your-github-username?tab=repositories">
+      <img alt="GitHub stars" title="GitHub stars" src="https://custom-icon-badges.demolab.com/github/stars/your-github-username?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+   </a>
+   <a href="https://www.linkedin.com/in/your-linkedin">
+      <img alt="LinkedIn" title="Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mudassirfaaiz15&show_icons=true&locale=en&layout=compact" alt="mudassirfaaiz15" /></p>
+## 🎯 Objective  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mudassirfaaiz15&show_icons=true&locale=en" alt="mudassirfaaiz15" /></p>
+To build a strong career in **Cloud, DevOps, and Software Engineering**, contributing to **digital transformation initiatives** by designing efficient, secure, and scalable systems while continuously learning industry best practices.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mudassirfaaiz15&" alt="mudassirfaaiz15" /></p>
+---
+
+## 🧰 Languages & Tools  
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+<img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/>
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+<br /><br />
+
+---
+
+## 💼 Experience  
+
+### 🚀 AWS Development with DevOps Intern — Technical Hub Pvt Ltd  
+- Implemented **Infrastructure as Code** using **Terraform** and **AWS CloudFormation**  
+- Built and managed **CI/CD pipelines** using **AWS CodePipeline, GitHub Actions, and Jenkins**  
+- Worked with **Docker and Kubernetes** for containerization and orchestration  
+- Optimized cloud usage to align with **business cost-reduction goals**
+
+### 🌐 Java Full Stack Intern — Brain O Vision  
+- Developed responsive websites using **HTML and CSS**  
+- Strengthened frontend fundamentals and UI structuring  
+- Gained exposure to full-stack development workflows
+
+---
+
+## 🛠️ Featured Project  
+
+### ☁️ AWS Resource Tracker & Auto Clean-Up System  
+- Built a **serverless AWS solution** to detect idle resources  
+- Automated stopping and deletion of unused services  
+- Reduced cloud costs through intelligent monitoring  
+- Designed with scalability, automation, and business alignment
+
+---
+
+## 📚 Education  
+
+- **B.Tech – Information Technology**  
+  *Aditya Engineering College* — CGPA: **8.05** (2023–2027)
+
+- **Intermediate (MPC)**  
+  *Career Point Junior College* — **67.4%**
+
+---
+
+## 📜 Certifications  
+
+- 🏅 Oracle Cloud Infrastructure 2025 – AI Foundations Associate  
+- 🏅 NPTEL – Introduction to Industry IoT 4.0  
+
+---
+
+## 🌱 Interests  
+
+- Cloud Technologies ☁️  
+- DevOps & Automation ⚙️  
+- Cybersecurity 🔐  
+- Application Development 💻  
+
+---
+
+## 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=gruvbox)
+
