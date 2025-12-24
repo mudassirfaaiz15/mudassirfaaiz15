@@ -2,9 +2,9 @@
 
 **`Cloud & DevOps Enthusiast | Full-Stack Learner | AWS Automation Builder`**
 
-I am an aspiring **Information Technology professional** with hands-on experience in **cloud computing, DevOps automation, and application development**. I enjoy transforming real-world problems into scalable technical solutions using modern cloud and development tools.
+I am an aspiring **Information Technology professional** with hands-on experience in **cloud computing, DevOps automation, and application development**. I enjoy transforming real-world problems into scalable, secure, and cost-efficient technical solutions using modern cloud and DevOps tools.
 
-My work focuses on **AWS automation, CI/CD pipelines, Infrastructure as Code, and backend development**, while continuously strengthening my foundations in software engineering and clean coding practices. I actively collaborate in team environments, align technical solutions with business goals, and strive to deliver high-quality, reliable outcomes.
+My primary focus areas include **AWS Cloud, CI/CD pipelines, Infrastructure as Code, containerization, and backend development**. I actively collaborate in team-based environments, align technical solutions with business objectives, and follow clean code and automation-first practices.
 
 <p align="left">
    <a href="https://github.com/mudassirfaaiz15">
@@ -20,9 +20,9 @@ My work focuses on **AWS automation, CI/CD pipelines, Infrastructure as Code, an
 
 ---
 
-## 🎯 Objective  
+## 🎯 Career Objective  
 
-To build a strong career in **Cloud, DevOps, and Software Engineering**, contributing to **digital transformation initiatives** by designing efficient, secure, and scalable systems while continuously learning industry best practices.
+To grow as a **Cloud & DevOps Engineer**, contributing to **digital transformation and automation initiatives** by building scalable infrastructure, reliable CI/CD systems, and efficient cloud-native solutions.
 
 ---
 
@@ -37,9 +37,9 @@ To build a strong career in **Cloud, DevOps, and Software Engineering**, contrib
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
 <img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/>
+<img align="left" alt="Terraform" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-<img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 <br /><br />
 
 ---
@@ -47,50 +47,63 @@ To build a strong career in **Cloud, DevOps, and Software Engineering**, contrib
 ## 💼 Experience  
 
 ### 🚀 AWS Development with DevOps Intern — Technical Hub Pvt Ltd  
-- Implemented **Infrastructure as Code** using **Terraform** and **AWS CloudFormation**  
-- Built and managed **CI/CD pipelines** using **AWS CodePipeline, GitHub Actions, and Jenkins**  
-- Worked with **Docker and Kubernetes** for containerization and orchestration  
-- Optimized cloud usage to align with **business cost-reduction goals**
+- Designed and automated **AWS infrastructure** using **Terraform and AWS CloudFormation**
+- Built **end-to-end CI/CD pipelines** with **AWS CodePipeline, GitHub Actions, and Jenkins**
+- Containerized applications using **Docker** and deployed microservices with **Kubernetes**
+- Implemented monitoring and automation strategies to improve **resource utilization and cost optimization**
+- Collaborated with mentors and team members to deliver **production-ready cloud automation solutions**
+
+🔗 **Project Repository:**  
+👉 https://github.com/mudassirfaaiz15/Cloud-Immunity-System-
+
+---
 
 ### 🌐 Java Full Stack Intern — Brain O Vision  
-- Developed responsive websites using **HTML and CSS**  
-- Strengthened frontend fundamentals and UI structuring  
-- Gained exposure to full-stack development workflows
+- Developed responsive web pages using **HTML and CSS**
+- Strengthened fundamentals of **frontend development and UI design**
+- Gained exposure to **full-stack development workflows and version control**
 
 ---
 
 ## 🛠️ Featured Project  
 
 ### ☁️ AWS Resource Tracker & Auto Clean-Up System  
-- Built a **serverless AWS solution** to detect idle resources  
-- Automated stopping and deletion of unused services  
-- Reduced cloud costs through intelligent monitoring  
-- Designed with scalability, automation, and business alignment
+- Built a **serverless AWS solution** to identify idle EC2, EBS, and other unused cloud resources
+- Automated **stopping and deletion** of unused services to reduce operational costs
+- Aligned cloud automation with **business cost-optimization goals**
+- Designed the solution with **scalability, security, and reliability** in mind
+
+🔗 **GitHub Repository:**  
+👉 https://github.com/mudassirfaaiz15/Cloud-Immunity-System-
 
 ---
 
 ## 📚 Education  
 
 - **B.Tech – Information Technology**  
-  *Aditya Engineering College* — CGPA: **8.05** (2023–2027)
+  *Aditya Engineering College* (2023 – 2027)
 
 - **Intermediate (MPC)**  
-  *Career Point Junior College* — **67.4%**
+  *Career Point Junior College*
 
 ---
 
-## 📜 Certifications  
+## 📜 Certifications (Top Highlights)  
 
-- 🏅 Oracle Cloud Infrastructure 2025 – AI Foundations Associate  
-- 🏅 NPTEL – Introduction to Industry IoT 4.0  
+- 🏅 **Oracle Cloud Infrastructure 2025 – Certified Foundations Associate**  
+- 🏅 **AWS Academy Graduate – Cloud Developing**  
+- 🏅 **AWS Academy Graduate – Cloud Data Pipeline Builder**  
+- 🏅 **Oracle Fusion AI Agent Studio – Certified Foundations Associate**  
+- 🏅 **Introduction to Red Hat OpenShift Applications (DO101)**  
 
 ---
 
-## 🌱 Interests  
+## 🌱 Areas of Interest  
 
-- Cloud Technologies ☁️  
-- DevOps & Automation ⚙️  
-- Cybersecurity 🔐  
+- Cloud Computing & Automation ☁️  
+- DevOps & CI/CD ⚙️  
+- Containerization & Microservices 🐳  
+- Cybersecurity & Secure Systems 🔐  
 - Application Development 💻  
 
 ---
