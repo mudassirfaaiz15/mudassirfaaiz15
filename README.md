@@ -185,10 +185,3 @@ Designed a **serverless AWS automation system** that periodically scans the AWS 
 
 ---
 
-## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mudassirfaaiz15&show_icons=true&theme=gruvbox)
-
-## 📈 Contribution Streak  
-
-![GitHub Streak](https://streak-stats.demolab.com?user=mudassirfaaiz15&theme=gruvbox&border_radius=6)
