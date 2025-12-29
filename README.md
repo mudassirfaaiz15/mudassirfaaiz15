@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F7A41D&center=true&vCenter=true&width=900&lines=Cloud+%26+DevOps+Engineer+in+the+Making;AWS+Automation+%7C+CI%2FCD+Pipelines;Infrastructure+as+Code+%7C+Docker+%26+Kubernetes;Building+Scalable+Cloud-Native+Systems" />
 </p>
@@ -7,20 +6,20 @@
 
 **`Cloud & DevOps Enthusiast | Full-Stack Learner | AWS Automation Builder`**
 
-I am an aspiring **Information Technology professional** with hands-on experience in **cloud computing, DevOps automation, and application development**. I enjoy transforming real-world problems into scalable, secure, and cost-efficient technical solutions using modern cloud and DevOps tools.
+I am an aspiring **Information Technology professional** with hands-on experience in **cloud computing, DevOps automation, and application development**. I specialize in building **scalable, secure, and cost-optimized cloud-native solutions** using modern DevOps practices.
 
-My primary focus areas include **AWS Cloud, CI/CD pipelines, Infrastructure as Code, containerization, and backend development**. I actively collaborate in team-based environments, align technical solutions with business objectives, and follow clean code and automation-first practices.
+My core interests include **AWS Cloud, CI/CD pipelines, Infrastructure as Code (IaC), containerization, and backend systems**. I enjoy collaborating in team-driven environments and delivering automation-first solutions aligned with business goals.
 
 <p align="left">
-   <a href="https://github.com/mudassirfaaiz15">
-      <img alt="GitHub followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/mudassirfaaiz15?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-   </a>
-   <a href="https://github.com/mudassirfaaiz15?tab=repositories">
-      <img alt="GitHub stars" title="GitHub stars" src="https://custom-icon-badges.demolab.com/github/stars/mudassirfaaiz15?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-   </a>
-   <a href="https://www.linkedin.com/in/mohammed-mudassir-faaiz-355694293/">
-      <img alt="LinkedIn" title="Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-   </a>
+  <a href="https://github.com/mudassirfaaiz15">
+    <img src="https://custom-icon-badges.demolab.com/github/followers/mudassirfaaiz15?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
+  <a href="https://github.com/mudassirfaaiz15?tab=repositories">
+    <img src="https://custom-icon-badges.demolab.com/github/stars/mudassirfaaiz15?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mohammed-mudassir-faaiz-355694293/">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -38,65 +37,34 @@ My primary focus areas include **AWS Cloud, CI/CD pipelines, Infrastructure as C
 
 ## 🎯 Career Objective  
 
-To grow as a **Cloud & DevOps Engineer**, contributing to **digital transformation and automation initiatives** by building scalable infrastructure, reliable CI/CD systems, and efficient cloud-native solutions.
+To grow as a **Cloud & DevOps Engineer**, contributing to **cloud automation, infrastructure reliability, and digital transformation initiatives**.
 
 ---
 
 ## 🧰 Languages & Tools  
 
-<div align="center">
+### Programming Languages  
+Java · Python · C  
 
-<h4>Programming Languages</h4>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
-</p>
-<p><b>Java · Python · C</b></p>
+### Web Technologies  
+HTML5 · CSS3  
 
----
+### Cloud & DevOps  
+AWS · Docker · Kubernetes · Terraform  
 
-<h4>Web Technologies</h4>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-</p>
-<p><b>HTML5 · CSS3</b></p>
-
----
-
-<h4>Cloud & DevOps</h4>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="45"/>
-</p>
-<p><b>AWS · Docker · Kubernetes · Terraform</b></p>
-
----
-
-<h4>Tools & Platforms</h4>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
-</p>
-<p><b>Git · GitHub · Linux · VS Code</b></p>
-
-</div>
+### Tools & Platforms  
+Git · GitHub · Linux · VS Code  
 
 ---
 
 ## 💼 Experience  
 
 ### 🚀 AWS Development with DevOps Intern — Technical Hub Pvt Ltd  
-- Designed and automated **AWS infrastructure** using **Terraform and AWS CloudFormation**
-- Built **end-to-end CI/CD pipelines** using **AWS CodePipeline, GitHub Actions, and Jenkins**
-- Containerized applications using **Docker** and deployed microservices with **Kubernetes**
-- Implemented monitoring and automation to improve **resource utilization and cost optimization**
-- Collaborated with mentors to deliver **production-ready cloud automation solutions**
+- Automated **AWS infrastructure** using **Terraform and AWS CloudFormation**
+- Built **CI/CD pipelines** using **AWS CodePipeline, GitHub Actions, and Jenkins**
+- Containerized applications with **Docker** and deployed via **Kubernetes**
+- Implemented monitoring and **cloud cost optimization**
+- Delivered **production-ready automation workflows**
 
 🔗 **Project Repository:**  
 👉 https://github.com/mudassirfaaiz15/Cloud-Immunity-System-
@@ -104,32 +72,32 @@ To grow as a **Cloud & DevOps Engineer**, contributing to **digital transformati
 ---
 
 ### 🌐 Java Full Stack Intern — Brain O Vision  
-- Developed responsive web pages using **HTML and CSS**
-- Strengthened frontend fundamentals and UI structuring
-- Gained exposure to full-stack development workflows
+- Built responsive UI components using **HTML and CSS**
+- Strengthened full-stack development fundamentals
+- Worked on structured frontend workflows
 
 ---
 
-## 🧠 Interview-Ready Project Breakdown  
+## 🧠 Interview-Ready Project  
 
 ### ☁️ AWS Resource Tracker & Auto Clean-Up System  
 
-**Problem Statement:**  
-Cloud environments often accumulate unused resources such as idle EC2 instances and unattached EBS volumes, leading to unnecessary cost and security risks.
+**Problem:**  
+Unused AWS resources cause cost leakage and security risks.
 
 **Solution:**  
-Designed a **serverless AWS automation system** that periodically scans the AWS account, identifies unused resources, and automatically stops or deletes them.
+A **serverless AWS automation system** that scans resources, detects idle services, and performs automated clean-up actions.
 
-**Key Technical Decisions:**
-- AWS Lambda (Python + Boto3)
-- Amazon EventBridge scheduling
-- IAM least-privilege policies
-- Amazon CloudWatch logging
+**Tech Stack:**  
+- AWS Lambda (Python + Boto3)  
+- Amazon EventBridge  
+- IAM (Least Privilege)  
+- Amazon CloudWatch  
 
-**Impact:**
-- Reduced cloud wastage and operational costs
-- Improved visibility into cloud usage
-- Scalable across multiple AWS regions
+**Impact:**  
+- Reduced cloud wastage and operational costs  
+- Improved visibility into AWS usage  
+- Scalable across multiple AWS regions  
 
 🔗 **GitHub Repository:**  
 👉 https://github.com/mudassirfaaiz15/Cloud-Immunity-System-
@@ -139,7 +107,11 @@ Designed a **serverless AWS automation system** that periodically scans the AWS 
 ## ☁️ AWS Architecture – Cloud Immunity System  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mudassirfaaiz15/Cloud-Immunity-System-/main/architecture.png" width="800"/>
+  <img 
+    src="https://raw.githubusercontent.com/mudassirfaaiz15/Cloud-Immunity-System-/main/images/aws-architecture.png"
+    alt="AWS Cloud Immunity System Architecture"
+    style="max-width:100%; height:auto;"
+  />
 </p>
 
 ---
@@ -156,22 +128,22 @@ Designed a **serverless AWS automation system** that periodically scans the AWS 
 
 ## 📜 Certifications (Top Highlights)  
 
-- 🏅 Oracle Cloud Infrastructure 2025 – Foundations Associate  
-- 🏅 AWS Academy Graduate – Cloud Developing  
-- 🏅 AWS Academy Graduate – Cloud Data Pipeline Builder  
-- 🏅 Oracle Fusion AI Agent Studio – Foundations Associate  
-- 🏅 Introduction to Red Hat OpenShift Applications  
+- Oracle Cloud Infrastructure 2025 – Foundations Associate  
+- AWS Academy Graduate – Cloud Developing  
+- AWS Academy Graduate – Cloud Data Pipeline Builder  
+- Oracle Fusion AI Agent Studio – Foundations Associate  
+- Introduction to Red Hat OpenShift Applications  
 
 ---
 
 ## ☁️ Cloud & DevOps Expertise  
 
-- **Cloud Platforms:** AWS (EC2, S3, IAM, Lambda, CloudWatch)
-- **Infrastructure as Code:** Terraform, AWS CloudFormation
-- **CI/CD Pipelines:** AWS CodePipeline, GitHub Actions, Jenkins
-- **Containers & Orchestration:** Docker, Kubernetes
-- **Automation & Monitoring:** Cost optimization, resource tracking, auto-cleanup
-- **Security Basics:** IAM, least-privilege access
+- **Cloud:** AWS (EC2, S3, IAM, Lambda, CloudWatch)  
+- **IaC:** Terraform, AWS CloudFormation  
+- **CI/CD:** CodePipeline, GitHub Actions, Jenkins  
+- **Containers:** Docker, Kubernetes  
+- **Automation:** Resource tracking, cost optimization  
+- **Security:** IAM, least-privilege access  
 
 ---
 
@@ -184,4 +156,3 @@ Designed a **serverless AWS automation system** that periodically scans the AWS 
 - Application Development 💻  
 
 ---
-
