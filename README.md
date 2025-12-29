@@ -109,7 +109,7 @@ A **serverless AWS automation system** that scans resources, detects idle servic
 <p align="center">
   <img 
     src="https://raw.githubusercontent.com/mudassirfaaiz15/Cloud-Immunity-System-/main/images/aws-architecture.png"
-    alt="AWS Cloud Immunity System Architecture"
+    alt="AWS Architecture – Cloud Immunity System"
     style="max-width:100%; height:auto;"
   />
 </p>
