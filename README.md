@@ -1,14 +1,45 @@
+<!-- ====================== PROFILE VISITOR COUNTER ====================== -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=mudassirfaaiz15&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<!-- ====================== TOP TYPING ANIMATION ====================== -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F7A41D&center=true&vCenter=true&width=900&lines=Cloud+%26+DevOps+Engineer+in+the+Making;AWS+Automation+%7C+CI%2FCD+Pipelines;Infrastructure+as+Code+%7C+Docker+%26+Kubernetes;Building+Scalable+Cloud-Native+Systems" />
 </p>
 
-# 👨‍💻 Mohammed Mudassir Faaiz  
+<h1 align="center">👋 Hi, I'm Mohammed Mudassir Faaiz</h1>
 
-**`Cloud & DevOps Enthusiast | Full-Stack Learner | AWS Automation Builder`**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
+</p>
 
-I am an aspiring **Information Technology professional** with hands-on experience in **cloud computing, DevOps automation, and application development**. I specialize in building **scalable, secure, and cost-optimized cloud-native solutions** using modern DevOps practices.
+---
 
-My core interests include **AWS Cloud, CI/CD pipelines, Infrastructure as Code (IaC), containerization, and backend systems**. I enjoy collaborating in team-driven environments and delivering automation-first solutions aligned with business goals.
+## 👨‍💻 About Me  
+
+**Cloud & DevOps Enthusiast | AWS Automation Builder | Full-Stack Learner**
+
+I am an aspiring **Cloud & DevOps Engineer** with hands-on experience in **AWS cloud automation, CI/CD pipelines, Infrastructure as Code, and containerized deployments**.  
+I focus on building **scalable, secure, and cost-optimized cloud-native systems** using automation-first DevOps practices.
+
+---
+
+## 🏆 Achievements & Leadership  
+
+<p align="left">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Campus%20Mantri-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</p>
+
+- 🎓 **GeeksforGeeks Campus Mantri (Campus Ambassador)**  
+  - Official campus representative for **GeeksforGeeks**
+  - Promoting **DSA, Competitive Programming, and Core CS fundamentals**
+  - Supporting **technical events, workshops, and peer-learning initiatives**
+  - Acting as a liaison between students and the GeeksforGeeks community  
+
+---
+
+## 🔗 Connect With Me  
 
 <p align="left">
   <a href="https://github.com/mudassirfaaiz15">
@@ -24,7 +55,7 @@ My core interests include **AWS Cloud, CI/CD pipelines, Infrastructure as Code (
 
 ---
 
-## ☁️ Cloud Stack Badges  
+## ☁️ Cloud & DevOps Stack  
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
@@ -35,124 +66,15 @@ My core interests include **AWS Cloud, CI/CD pipelines, Infrastructure as Code (
 
 ---
 
-## 🎯 Career Objective  
-
-To grow as a **Cloud & DevOps Engineer**, contributing to **cloud automation, infrastructure reliability, and digital transformation initiatives**.
-
----
-
-## 🧰 Languages & Tools  
-
-### Programming Languages  
-Java · Python · C  
-
-### Web Technologies  
-HTML5 · CSS3  
-
-### Cloud & DevOps  
-AWS · Docker · Kubernetes · Terraform  
-
-### Tools & Platforms  
-Git · GitHub · Linux · VS Code  
-
----
-
-## 💼 Experience  
-
-### 🚀 AWS Development with DevOps Intern — Technical Hub Pvt Ltd  
-- Automated **AWS infrastructure** using **Terraform and AWS CloudFormation**
-- Built **CI/CD pipelines** using **AWS CodePipeline, GitHub Actions, and Jenkins**
-- Containerized applications with **Docker** and deployed via **Kubernetes**
-- Implemented monitoring and **cloud cost optimization**
-- Delivered **production-ready automation workflows**
-
-🔗 **Project Repository:**  
-👉 https://github.com/mudassirfaaiz15/Cloud-Immunity-System-
-
----
-
-### 🌐 Java Full Stack Intern — Brain O Vision  
-- Built responsive UI components using **HTML and CSS**
-- Strengthened full-stack development fundamentals
-- Worked on structured frontend workflows
-
----
-
-## 🧠 Interview-Ready Project  
-
-### ☁️ AWS Resource Tracker & Auto Clean-Up System  
-
-**Problem:**  
-Unused AWS resources cause cost leakage and security risks.
-
-**Solution:**  
-A **serverless AWS automation system** that scans resources, detects idle services, and performs automated clean-up actions.
-
-**Tech Stack:**  
-- AWS Lambda (Python + Boto3)  
-- Amazon EventBridge  
-- IAM (Least Privilege)  
-- Amazon CloudWatch  
-
-**Impact:**  
-- Reduced cloud wastage and operational costs  
-- Improved visibility into AWS usage  
-- Scalable across multiple AWS regions  
-
-🔗 **GitHub Repository:**  
-👉 https://github.com/mudassirfaaiz15/Cloud-Immunity-System-
-
----
-
-## ☁️ AWS Architecture – Cloud Immunity System  
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/mudassirfaaiz15/Cloud-Immunity-System-/main/images/aws-architecture.png"
-    alt="AWS Architecture – Cloud Immunity System"
-    style="max-width:100%; height:auto;"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mudassirfaaiz15&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mudassirfaaiz15&theme=tokyonight"/>
 </p>
 
 ---
 
-## 📚 Education  
-
-- **B.Tech – Information Technology**  
-  *Aditya Engineering College* (2023 – 2027)
-
-- **Intermediate (MPC)**  
-  *Career Point Junior College*
-
----
-
-## 📜 Certifications (Top Highlights)  
-
-- Oracle Cloud Infrastructure 2025 – Foundations Associate  
-- AWS Academy Graduate – Cloud Developing  
-- AWS Academy Graduate – Cloud Data Pipeline Builder  
-- Oracle Fusion AI Agent Studio – Foundations Associate  
-- Introduction to Red Hat OpenShift Applications  
-
----
-
-## ☁️ Cloud & DevOps Expertise  
-
-- **Cloud:** AWS (EC2, S3, IAM, Lambda, CloudWatch)  
-- **IaC:** Terraform, AWS CloudFormation  
-- **CI/CD:** CodePipeline, GitHub Actions, Jenkins  
-- **Containers:** Docker, Kubernetes  
-- **Automation:** Resource tracking, cost optimization  
-- **Security:** IAM, least-privilege access  
-
----
-
-## 🌱 Areas of Interest  
-
-- Cloud Computing & Automation ☁️  
-- DevOps & CI/CD ⚙️  
-- Containerization & Microservices 🐳  
-- Cybersecurity 🔐  
-- Application Development 💻  
-
----
+<p align="center">
+  <b>⚡ “Automate everything that can be automated.” ⚡</b>
+</p>
