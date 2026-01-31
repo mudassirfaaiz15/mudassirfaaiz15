@@ -10,22 +10,17 @@
 
 <h1 align="center">👋 Hi, I'm Mohammed Mudassir Faaiz</h1>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
-</p>
-
 ---
 
 ## 👨‍💻 About Me  
 
-**Cloud & DevOps Enthusiast | AWS Automation Builder | Full-Stack Learner**
+**Cloud & DevOps Enthusiast | AWS Automation Builder | Full-Stack Developer**
 
-I am an aspiring **Cloud & DevOps Engineer** with hands-on experience in **AWS cloud automation, CI/CD pipelines, Infrastructure as Code (IaC), and containerized deployments**.  
-I specialize in building **scalable, secure, and cost-optimized cloud-native systems** using modern DevOps practices.
+I am a **B.Tech Information Technology student** with strong hands-on experience in  
+**cloud automation, DevOps workflows, and full-stack application development**.
 
-- ☁️ Strong interest in **AWS Cloud, DevOps & SRE practices**
-- ⚙️ Passionate about **automation, monitoring & cost optimization**
-- 🤝 Thrive in **team-driven, production-oriented environments**
+I enjoy building **scalable, secure, and cost-optimized systems**, combining  
+**AWS, backend engineering, and automation-first DevOps practices**.
 
 ---
 
@@ -36,96 +31,98 @@ I specialize in building **scalable, secure, and cost-optimized cloud-native sys
 </p>
 
 - 🎓 **GeeksforGeeks Campus Mantri (Campus Ambassador)**  
-  - Official campus representative for **GeeksforGeeks**
-  - Promoting **DSA, Competitive Programming, and Core CS fundamentals**
-  - Supporting **technical events, workshops, and peer-learning initiatives**
+  - Promoting **DSA, Competitive Programming, and Core CS learning**
+  - Supporting **technical events, workshops, and peer initiatives**
   - Acting as a bridge between students and the GeeksforGeeks community  
 
----
-
-## 🔗 Connect With Me  
-
-<p align="left">
-  <a href="https://github.com/mudassirfaaiz15">
-    <img src="https://custom-icon-badges.demolab.com/github/followers/mudassirfaaiz15?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a>
-  <a href="https://github.com/mudassirfaaiz15?tab=repositories">
-    <img src="https://custom-icon-badges.demolab.com/github/stars/mudassirfaaiz15?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mohammed-mudassir-faaiz-355694293/">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+- 🎤 **Google DevFest – Participant**  
+  - Engaged in developer-focused sessions on modern software practices
 
 ---
 
-## ☁️ Cloud & DevOps Stack  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-Containerization-blue?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-IaC-purple?style=for-the-badge&logo=terraform&logoColor=white"/>
-</p>
-
----
-
-## 🧰 Skills & Tools  
+## 🧰 Skills & Tech Stack  
 
 ### 💻 Programming  
-Java · Python · C  
+C · Java · Python · JavaScript  
 
-### 🌐 Web  
-HTML5 · CSS3  
+### 🌐 Web & Backend  
+React.js · Node.js · Express.js · HTML5 · Tailwind CSS · REST APIs  
+
+### 🗄️ Databases  
+MySQL · MongoDB  
 
 ### ☁️ Cloud & DevOps  
-AWS · Docker · Kubernetes · Terraform  
+AWS · Linux · Git · GitHub  
+
+### 🧠 Core CS  
+Data Structures & Algorithms · OOP · DBMS · Operating Systems  
 
 ### 🛠️ Tools  
-Git · GitHub · Linux · VS Code  
+Postman · Figma · VS Code  
 
 ---
 
 ## 💼 Experience  
 
-### 🚀 AWS Development with DevOps Intern — Technical Hub Pvt Ltd  
-- Automated AWS infrastructure using **Terraform & CloudFormation**
-- Built **CI/CD pipelines** with **AWS CodePipeline, Jenkins & GitHub Actions**
-- Containerized applications using **Docker** and deployed via **Kubernetes**
-- Implemented **monitoring, logging, and cost optimization**
-- Delivered **production-ready cloud automation workflows**
-
-🔗 **Project Repository:**  
-👉 https://github.com/mudassirfaaiz15/Cloud-Immunity-System-
+### 🚀 AWS DevOps Intern — Technical Hub (May 2025 – July 2025)  
+- Worked hands-on with **AWS EC2, S3, IAM**, exploring real-world cloud architectures  
+- Analyzed **10+ AWS resource utilization patterns** and suggested efficiency improvements  
+- Contributed to **scalable and cost-aware cloud automation practices**
 
 ---
 
-### 🌐 Java Full Stack Intern — Brain O Vision  
-- Built responsive UI components using **HTML & CSS**
-- Strengthened full-stack development fundamentals
+### 🌐 Java Intern — Brain O Vision, Hyderabad (May 2025 – July 2025)  
+- Built responsive web components using **HTML, CSS, and JavaScript**  
+- Debugged UI and logic-level issues, improving application stability  
+- Participated in technical discussions to convert requirements into implementations  
 
 ---
 
-## 🧠 Flagship Interview Project  
+## 🧠 Projects  
 
-### ☁️ AWS Resource Tracker & Auto Clean-Up System (Cloud Immunity System)
+### ☁️ FinOps – Cloud Immunity System  
+**AWS Lambda · EC2 · S3 · EventBridge · SES · Python**
 
-**Problem**  
-Unused AWS resources lead to cost leakage and security risks.
+- Built an automated system to detect **unused or idle AWS resources**  
+- Improved **cost efficiency by ~30%** and optimized services by **25%**  
+- Designed modular architecture supporting multiple AWS services  
 
-**Solution**  
-A serverless AWS automation system that scans cloud resources, detects idle services, and performs automated cleanup.
+🔗 Repo: https://github.com/mudassirfaaiz15/Cloud-Immunity-System-
 
-**Tech Stack**  
-AWS Lambda · EventBridge · IAM · CloudWatch  
+---
 
-**Impact**  
-- 💰 Reduced cloud wastage and operational costs  
-- 👁️ Improved visibility into AWS usage  
-- 🌍 Scalable across multiple AWS regions  
+### 🌾 Fasal Sathi – AI Powered Multilingual Crop Platform  
+**Python · TensorFlow · Computer Vision · Web Speech API**
 
-🔗 **GitHub Repository:**  
-👉 https://github.com/mudassirfaaiz15/Cloud-Immunity-System-
+- Developed an AI-based **crop advisory & disease detection system**  
+- Implemented **multilingual voice support** (English, Hindi, Telugu, Marathi)  
+- Designed a scalable architecture integrating **weather, crop & market data**
+
+---
+
+### 🧑‍💻 Dev Flow Guardian – Developer Productivity Dashboard  
+**React · Tailwind CSS · TypeScript · Vite · Supabase · Vercel**
+
+- Built a full-stack SaaS-style developer dashboard  
+- Implemented onboarding, dashboards, and **AI mentor features**  
+- Improved efficiency by **20%** and reduced load time by **30%**  
+- Established **CI/CD with GitHub & Vercel** for live deployments  
+
+---
+
+## 📚 Education  
+
+🎓 **B.Tech – Information Technology**  
+Aditya Engineering College (2023 – Present)  
+**CGPA: 8.21**
+
+---
+
+## 📜 Certifications  
+
+- AWS Cloud Practitioner Essentials  
+- Oracle Cloud Infrastructure – Foundations Associate  
+- Oracle Fusion AI Agent Studio – Foundations Associate  
 
 ---
 
@@ -138,16 +135,6 @@ AWS Lambda · EventBridge · IAM · CloudWatch
 
 ---
 
-## 🌱 Areas of Interest  
-
-- Cloud Computing & Automation ☁️  
-- DevOps & CI/CD ⚙️  
-- Containerization & Microservices 🐳  
-- Cloud Security 🔐  
-- Backend & System Design 💻  
-
----
-
 <p align="center">
-  <b>⚡ “Automate everything that can be automated.” ⚡</b>
+  <b>⚡ “Automate smart. Build scalable. Optimize continuously.” ⚡</b>
 </p>
