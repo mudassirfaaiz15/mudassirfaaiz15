@@ -20,8 +20,12 @@
 
 **Cloud & DevOps Enthusiast | AWS Automation Builder | Full-Stack Learner**
 
-I am an aspiring **Cloud & DevOps Engineer** with hands-on experience in **AWS cloud automation, CI/CD pipelines, Infrastructure as Code, and containerized deployments**.  
-I focus on building **scalable, secure, and cost-optimized cloud-native systems** using automation-first DevOps practices.
+I am an aspiring **Cloud & DevOps Engineer** with hands-on experience in **AWS cloud automation, CI/CD pipelines, Infrastructure as Code (IaC), and containerized deployments**.  
+I specialize in building **scalable, secure, and cost-optimized cloud-native systems** using modern DevOps practices.
+
+- ☁️ Strong interest in **AWS Cloud, DevOps & SRE practices**
+- ⚙️ Passionate about **automation, monitoring & cost optimization**
+- 🤝 Thrive in **team-driven, production-oriented environments**
 
 ---
 
@@ -35,7 +39,7 @@ I focus on building **scalable, secure, and cost-optimized cloud-native systems*
   - Official campus representative for **GeeksforGeeks**
   - Promoting **DSA, Competitive Programming, and Core CS fundamentals**
   - Supporting **technical events, workshops, and peer-learning initiatives**
-  - Acting as a liaison between students and the GeeksforGeeks community  
+  - Acting as a bridge between students and the GeeksforGeeks community  
 
 ---
 
@@ -66,12 +70,81 @@ I focus on building **scalable, secure, and cost-optimized cloud-native systems*
 
 ---
 
+## 🧰 Skills & Tools  
+
+### 💻 Programming  
+Java · Python · C  
+
+### 🌐 Web  
+HTML5 · CSS3  
+
+### ☁️ Cloud & DevOps  
+AWS · Docker · Kubernetes · Terraform  
+
+### 🛠️ Tools  
+Git · GitHub · Linux · VS Code  
+
+---
+
+## 💼 Experience  
+
+### 🚀 AWS Development with DevOps Intern — Technical Hub Pvt Ltd  
+- Automated AWS infrastructure using **Terraform & CloudFormation**
+- Built **CI/CD pipelines** with **AWS CodePipeline, Jenkins & GitHub Actions**
+- Containerized applications using **Docker** and deployed via **Kubernetes**
+- Implemented **monitoring, logging, and cost optimization**
+- Delivered **production-ready cloud automation workflows**
+
+🔗 **Project Repository:**  
+👉 https://github.com/mudassirfaaiz15/Cloud-Immunity-System-
+
+---
+
+### 🌐 Java Full Stack Intern — Brain O Vision  
+- Built responsive UI components using **HTML & CSS**
+- Strengthened full-stack development fundamentals
+
+---
+
+## 🧠 Flagship Interview Project  
+
+### ☁️ AWS Resource Tracker & Auto Clean-Up System (Cloud Immunity System)
+
+**Problem**  
+Unused AWS resources lead to cost leakage and security risks.
+
+**Solution**  
+A serverless AWS automation system that scans cloud resources, detects idle services, and performs automated cleanup.
+
+**Tech Stack**  
+AWS Lambda · EventBridge · IAM · CloudWatch  
+
+**Impact**  
+- 💰 Reduced cloud wastage and operational costs  
+- 👁️ Improved visibility into AWS usage  
+- 🌍 Scalable across multiple AWS regions  
+
+🔗 **GitHub Repository:**  
+👉 https://github.com/mudassirfaaiz15/Cloud-Immunity-System-
+
+---
+
 ## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mudassirfaaiz15&show_icons=true&theme=tokyonight"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mudassirfaaiz15&theme=tokyonight"/>
 </p>
+
+---
+
+## 🌱 Areas of Interest  
+
+- Cloud Computing & Automation ☁️  
+- DevOps & CI/CD ⚙️  
+- Containerization & Microservices 🐳  
+- Cloud Security 🔐  
+- Backend & System Design 💻  
 
 ---
 
