@@ -16,15 +16,15 @@
 
 **Cloud & DevOps Enthusiast | AWS Automation Builder | Full-Stack Developer**
 
-I am a **B.Tech Information Technology student** with hands-on experience in  
+I am a **B.Tech Information Technology student** with strong hands-on experience in  
 **cloud automation, DevOps workflows, and full-stack application development**.
 
 I focus on building **scalable, secure, observable, and cost-optimized systems**,  
 combining **AWS services, backend engineering, and automation-first DevOps practices**.
 
-🔹 Strong in **problem → system → automation → impact** thinking  
-🔹 Comfortable working with **production-style architectures**  
-🔹 Passionate about **FinOps, CI/CD, and cloud governance**
+🔹 Interested in **FinOps, CI/CD, Infrastructure Automation, and Cloud Governance**  
+🔹 Comfortable working with **production-style architectures and real-world constraints**  
+🔹 Passionate about **problem → system → automation → measurable impact**
 
 ---
 
@@ -37,10 +37,10 @@ combining **AWS services, backend engineering, and automation-first DevOps pract
 - 🎓 **GeeksforGeeks Campus Mantri (Campus Ambassador)**
   - Promoting **DSA, Competitive Programming, and Core CS fundamentals**
   - Organizing and supporting **technical events, workshops, and peer learning**
-  - Acting as a liaison between students and the GeeksforGeeks developer community
+  - Acting as a bridge between students and the GeeksforGeeks developer community
 
 - 🎤 **Google DevFest – Participant**
-  - Attended sessions on modern development practices, cloud, and scalable systems
+  - Engaged in sessions on **modern development practices, cloud, and scalable systems**
 
 ---
 
@@ -61,7 +61,7 @@ AWS · Linux · Git · GitHub
 ### 🧠 Core Computer Science
 Data Structures & Algorithms · OOP · DBMS · Operating Systems
 
-### 🛠️ Tools
+### 🛠️ Tools & Platforms
 Postman · Figma · VS Code
 
 ---
@@ -74,7 +74,7 @@ Postman · Figma · VS Code
 - Worked hands-on with **AWS EC2, S3, IAM**, understanding real-world cloud architectures
 - Analyzed **10+ AWS resource utilization patterns** and proposed efficiency improvements
 - Contributed to **cost-aware, scalable cloud automation workflows**
-- Gained exposure to **cloud governance, monitoring, and best practices**
+- Gained exposure to **cloud governance, monitoring, and DevOps best practices**
 
 ---
 
@@ -95,7 +95,7 @@ Postman · Figma · VS Code
 - Designed an automated system to detect **unused or idle AWS resources**
 - Improved **cloud cost efficiency by ~30%** and optimized services by **~25%**
 - Built with **modular, scalable architecture** supporting multiple AWS services
-- Focused on **least-privilege IAM, automation, and FinOps best practices**
+- Applied **least-privilege IAM, automation, and FinOps principles**
 
 🔗 Repository: https://github.com/mudassirfaaiz15/Cloud-Immunity-System-
 
@@ -137,18 +137,21 @@ Aditya Engineering College (2023 – Present)
 
 ---
 
-## 📊 GitHub Statistics
+## 🚀 Currently Exploring
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=mudassirfaaiz15&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="420"/>
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=mudassirfaaiz15&theme=tokyonight&hide_border=true" width="420"/>
-    </td>
-  </tr>
-</table>
+- AWS Cost Explorer & Billing APIs
+- Infrastructure as Code (Terraform deep dive)
+- Advanced CI/CD patterns
+- System Design for scalable backend services
+
+---
+
+## 🤝 Open to Opportunities
+
+I am actively seeking **internships, cloud/devops roles, and collaborative projects**  
+where I can contribute to **real-world systems and automation-driven solutions**.
+
+📫 Feel free to connect with me on **LinkedIn** or explore my **GitHub projects**.
 
 ---
 
