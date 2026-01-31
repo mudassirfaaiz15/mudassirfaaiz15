@@ -12,105 +12,116 @@
 
 ---
 
-## 👨‍💻 About Me  
+## 👨‍💻 About Me
 
 **Cloud & DevOps Enthusiast | AWS Automation Builder | Full-Stack Developer**
 
-I am a **B.Tech Information Technology student** with strong hands-on experience in  
+I am a **B.Tech Information Technology student** with hands-on experience in  
 **cloud automation, DevOps workflows, and full-stack application development**.
 
-I enjoy building **scalable, secure, and cost-optimized systems**, combining  
-**AWS, backend engineering, and automation-first DevOps practices**.
+I focus on building **scalable, secure, observable, and cost-optimized systems**,  
+combining **AWS services, backend engineering, and automation-first DevOps practices**.
+
+🔹 Strong in **problem → system → automation → impact** thinking  
+🔹 Comfortable working with **production-style architectures**  
+🔹 Passionate about **FinOps, CI/CD, and cloud governance**
 
 ---
 
-## 🏆 Achievements & Leadership  
+## 🏆 Achievements & Leadership
 
 <p align="left">
   <img src="https://img.shields.io/badge/GeeksforGeeks-Campus%20Mantri-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </p>
 
-- 🎓 **GeeksforGeeks Campus Mantri (Campus Ambassador)**  
-  - Promoting **DSA, Competitive Programming, and Core CS learning**
-  - Supporting **technical events, workshops, and peer initiatives**
-  - Acting as a bridge between students and the GeeksforGeeks community  
+- 🎓 **GeeksforGeeks Campus Mantri (Campus Ambassador)**
+  - Promoting **DSA, Competitive Programming, and Core CS fundamentals**
+  - Organizing and supporting **technical events, workshops, and peer learning**
+  - Acting as a liaison between students and the GeeksforGeeks developer community
 
-- 🎤 **Google DevFest – Participant**  
-  - Engaged in developer-focused sessions on modern software practices
-
----
-
-## 🧰 Skills & Tech Stack  
-
-### 💻 Programming  
-C · Java · Python · JavaScript  
-
-### 🌐 Web & Backend  
-React.js · Node.js · Express.js · HTML5 · Tailwind CSS · REST APIs  
-
-### 🗄️ Databases  
-MySQL · MongoDB  
-
-### ☁️ Cloud & DevOps  
-AWS · Linux · Git · GitHub  
-
-### 🧠 Core CS  
-Data Structures & Algorithms · OOP · DBMS · Operating Systems  
-
-### 🛠️ Tools  
-Postman · Figma · VS Code  
+- 🎤 **Google DevFest – Participant**
+  - Attended sessions on modern development practices, cloud, and scalable systems
 
 ---
 
-## 💼 Experience  
+## 🧰 Skills & Tech Stack
 
-### 🚀 AWS DevOps Intern — Technical Hub (May 2025 – July 2025)  
-- Worked hands-on with **AWS EC2, S3, IAM**, exploring real-world cloud architectures  
-- Analyzed **10+ AWS resource utilization patterns** and suggested efficiency improvements  
-- Contributed to **scalable and cost-aware cloud automation practices**
+### 💻 Programming
+C · Java · Python · JavaScript
+
+### 🌐 Web & Backend
+React.js · Node.js · Express.js · HTML5 · Tailwind CSS · REST APIs
+
+### 🗄️ Databases
+MySQL · MongoDB
+
+### ☁️ Cloud & DevOps
+AWS · Linux · Git · GitHub
+
+### 🧠 Core Computer Science
+Data Structures & Algorithms · OOP · DBMS · Operating Systems
+
+### 🛠️ Tools
+Postman · Figma · VS Code
 
 ---
 
-### 🌐 Java Intern — Brain O Vision, Hyderabad (May 2025 – July 2025)  
-- Built responsive web components using **HTML, CSS, and JavaScript**  
-- Debugged UI and logic-level issues, improving application stability  
-- Participated in technical discussions to convert requirements into implementations  
+## 💼 Experience
+
+### 🚀 AWS DevOps Intern — Technical Hub  
+**May 2025 – July 2025**
+
+- Worked hands-on with **AWS EC2, S3, IAM**, understanding real-world cloud architectures
+- Analyzed **10+ AWS resource utilization patterns** and proposed efficiency improvements
+- Contributed to **cost-aware, scalable cloud automation workflows**
+- Gained exposure to **cloud governance, monitoring, and best practices**
 
 ---
 
-## 🧠 Projects  
+### 🌐 Java Intern — Brain O Vision, Hyderabad  
+**May 2025 – July 2025**
 
-### ☁️ FinOps – Cloud Immunity System  
+- Built responsive UI components using **HTML, CSS, and JavaScript**
+- Debugged UI and logic-level issues, improving application stability
+- Participated in requirement analysis and implementation discussions
+
+---
+
+## 🧠 Projects
+
+### ☁️ FinOps – Cloud Immunity System
 **AWS Lambda · EC2 · S3 · EventBridge · SES · Python**
 
-- Built an automated system to detect **unused or idle AWS resources**  
-- Improved **cost efficiency by ~30%** and optimized services by **25%**  
-- Designed modular architecture supporting multiple AWS services  
+- Designed an automated system to detect **unused or idle AWS resources**
+- Improved **cloud cost efficiency by ~30%** and optimized services by **~25%**
+- Built with **modular, scalable architecture** supporting multiple AWS services
+- Focused on **least-privilege IAM, automation, and FinOps best practices**
 
-🔗 Repo: https://github.com/mudassirfaaiz15/Cloud-Immunity-System-
+🔗 Repository: https://github.com/mudassirfaaiz15/Cloud-Immunity-System-
 
 ---
 
-### 🌾 Fasal Sathi – AI Powered Multilingual Crop Platform  
+### 🌾 Fasal Sathi – AI Powered Multilingual Crop Platform
 **Python · TensorFlow · Computer Vision · Web Speech API**
 
-- Developed an AI-based **crop advisory & disease detection system**  
-- Implemented **multilingual voice support** (English, Hindi, Telugu, Marathi)  
-- Designed a scalable architecture integrating **weather, crop & market data**
+- Built an AI-driven **crop advisory and disease detection system**
+- Implemented **multilingual voice interaction** (English, Hindi, Telugu, Marathi)
+- Designed a scalable architecture integrating **weather, crop, and market insights**
+- Focused on accessibility for **rural and non-English-speaking users**
 
 ---
 
-### 🧑‍💻 Dev Flow Guardian – Developer Productivity Dashboard  
+### 🧑‍💻 Dev Flow Guardian – Developer Productivity Dashboard
 **React · Tailwind CSS · TypeScript · Vite · Supabase · Vercel**
 
-- Built a full-stack SaaS-style developer dashboard  
-- Implemented onboarding, dashboards, and **AI mentor features**  
-- Improved efficiency by **20%** and reduced load time by **30%**  
-- Established **CI/CD with GitHub & Vercel** for live deployments  
+- Built a full-stack **SaaS-style developer productivity platform**
+- Implemented onboarding flows, dashboards, and **AI mentor features**
+- Improved efficiency by **~20%** and reduced load time by **~30%**
+- Established **CI/CD pipelines with GitHub and Vercel** for live deployments
 
 ---
 
-## 📚 Education  
+## 📚 Education
 
 🎓 **B.Tech – Information Technology**  
 Aditya Engineering College (2023 – Present)  
@@ -118,23 +129,29 @@ Aditya Engineering College (2023 – Present)
 
 ---
 
-## 📜 Certifications  
+## 📜 Certifications
 
-- AWS Cloud Practitioner Essentials  
-- Oracle Cloud Infrastructure – Foundations Associate  
-- Oracle Fusion AI Agent Studio – Foundations Associate  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mudassirfaaiz15&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mudassirfaaiz15&theme=tokyonight"/>
-</p>
+- AWS Cloud Practitioner Essentials
+- Oracle Cloud Infrastructure – Foundations Associate
+- Oracle Fusion AI Agent Studio – Foundations Associate
 
 ---
 
+## 📊 GitHub Statistics
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=mudassirfaaiz15&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="420"/>
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=mudassirfaaiz15&theme=tokyonight&hide_border=true" width="420"/>
+    </td>
+  </tr>
+</table>
+
+---
+
 <p align="center">
-  <b>⚡ “Automate smart. Build scalable. Optimize continuously.” ⚡</b>
+  <b>⚡ Automate smart. Build scalable. Optimize continuously. ⚡</b>
 </p>
