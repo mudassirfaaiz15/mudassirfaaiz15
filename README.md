@@ -5,7 +5,7 @@
 
 <!-- ====================== TYPING ANIMATION ====================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Cloud+%26+DevOps+Engineer;AWS+Automation+Builder;Full-Stack+Developer;Infrastructure+as+Code+Enthusiast;Building+Scalable+Cloud-Native+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Cloud+%26+DevOps+Engineer;AWS+Automation+Builder;Full-Stack+Developer;Infrastructure+as+Code+Enthusiast;Building+Scalable+Cloud-Native+Systems" />
 </p>
 
 <!-- ====================== HEADER ====================== -->
@@ -21,7 +21,7 @@ Cloud & DevOps Enthusiast • AWS Automation Builder • Full-Stack Developer
 
 I am a **B.Tech Information Technology student** passionate about building scalable systems, automating workflows, and developing cloud-native applications.
 
-My interests revolve around:
+My interests include:
 
 - Cloud Computing & DevOps
 - Infrastructure Automation
@@ -30,7 +30,7 @@ My interests revolve around:
 - FinOps & Cloud Governance
 - Backend System Design
 
-I enjoy transforming ideas into production-style solutions focused on scalability, observability, security, and optimization.
+I enjoy transforming ideas into production-grade solutions focused on scalability, observability, security, and optimization.
 
 ---
 
@@ -169,20 +169,20 @@ Aditya Engineering College
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mudassirfaaiz15&show_icons=true&theme=tokyonight&hide_border=true" />
-  
+
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mudassirfaaiz15&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudassirfaaiz15&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudassirfaaiz15&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## Contribution Graph
+## Contribution Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mudassirfaaiz15&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mudassirfaaiz15&bg_color=0d1117&color=58a6ff&line=58a6ff&point=fefefe&area=true&hide_border=true" />
 </p>
 
 ---
@@ -190,23 +190,15 @@ Aditya Engineering College
 ## Contribution Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mudassirfaaiz15/mudassirfaaiz15/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/mudassirfaaiz15/mudassirfaaiz15/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-## Activity Graph
+## GitHub Achievements
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mudassirfaaiz15&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mudassirfaaiz15&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mudassirfaaiz15&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1" />
 </p>
 
 ---
