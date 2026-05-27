@@ -1,11 +1,13 @@
 <!-- ====================== PROFILE VISITOR COUNTER ====================== -->
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=mudassirfaaiz15&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=mudassirfaaiz15&label=Profile%20Views&color=1F6FEB&style=flat" />
 </p>
 
 <!-- ====================== TYPING ANIMATION ====================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Cloud+%26+DevOps+Engineer;AWS+Automation+Builder;Full-Stack+Developer;Infrastructure+as+Code+Enthusiast;Building+Scalable+Cloud-Native+Systems" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Cloud+%26+DevOps+Engineer;AWS+Automation+Builder;Full-Stack+Developer;Infrastructure+as+Code+Enthusiast;Building+Scalable+Cloud-Native+Systems"
+  />
 </p>
 
 <!-- ====================== HEADER ====================== -->
@@ -21,8 +23,7 @@ Cloud & DevOps Enthusiast • AWS Automation Builder • Full-Stack Developer
 
 I am a **B.Tech Information Technology student** passionate about building scalable systems, automating workflows, and developing cloud-native applications.
 
-My interests include:
-
+### Interests
 - Cloud Computing & DevOps
 - Infrastructure Automation
 - CI/CD Pipelines
@@ -182,15 +183,21 @@ Aditya Engineering College
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mudassirfaaiz15&bg_color=0d1117&color=58a6ff&line=58a6ff&point=fefefe&area=true&hide_border=true" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mudassirfaaiz15&custom_title=Mudassir%20Faaiz%20Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true"
+    width="95%"
+  />
 </p>
 
 ---
 
-## Contribution Snake Animation
+## Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mudassirfaaiz15/mudassirfaaiz15/output/github-contribution-grid-snake-dark.svg" />
+  <img 
+    src="https://raw.githubusercontent.com/mudassirfaaiz15/mudassirfaaiz15/output/github-contribution-grid-snake-dark.svg"
+    width="95%"
+  />
 </p>
 
 ---
@@ -198,7 +205,10 @@ Aditya Engineering College
 ## GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mudassirfaaiz15&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=mudassirfaaiz15&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=1"
+    width="95%"
+  />
 </p>
 
 ---
