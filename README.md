@@ -187,6 +187,30 @@ Aditya Engineering College
 
 ---
 
+## Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mudassirfaaiz15/mudassirfaaiz15/output/snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+## Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mudassirfaaiz15&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mudassirfaaiz15&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
 ## Connect With Me
 
 <p align="center">
