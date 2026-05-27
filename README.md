@@ -5,7 +5,7 @@
 
 <!-- ====================== TYPING ANIMATION ====================== -->
 <p align="center">
-  <img
+  <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Cloud+%26+DevOps+Engineer;AWS+Automation+Builder;Full-Stack+Developer;Infrastructure+as+Code+Enthusiast;Building+Scalable+Cloud-Native+Systems"
   />
 </p>
@@ -169,62 +169,13 @@ Aditya Engineering College
 ## GitHub Analytics
 
 <p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mudassirfaaiz15&show_icons=true&theme=transparent&hide_border=true" />
 
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=mudassirfaaiz15&show_icons=true&theme=tokyonight&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=mudassirfaaiz15&show_icons=true&theme=default&hide_border=true"
-      media="(prefers-color-scheme: light)"
-    />
-
-    <img
-      height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=mudassirfaaiz15&show_icons=true"
-    />
-  </picture>
-
-  <picture>
-    <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=mudassirfaaiz15&theme=tokyonight&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-
-    <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=mudassirfaaiz15&theme=default&hide_border=true"
-      media="(prefers-color-scheme: light)"
-    />
-
-    <img
-      height="180em"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=mudassirfaaiz15"
-    />
-  </picture>
-
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mudassirfaaiz15&theme=transparent&hide_border=true" />
 </p>
 
 <p align="center">
-
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mudassirfaaiz15&layout=compact&theme=tokyonight&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mudassirfaaiz15&layout=compact&theme=default&hide_border=true"
-      media="(prefers-color-scheme: light)"
-    />
-
-    <img
-      width="55%"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudassirfaaiz15&layout=compact"
-    />
-  </picture>
-
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudassirfaaiz15&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ---
@@ -232,24 +183,10 @@ Aditya Engineering College
 ## Contribution Activity
 
 <p align="center">
-  <picture>
-
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=mudassirfaaiz15&custom_title=Mudassir%20Faaiz%20Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true"
-    />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=mudassirfaaiz15&bg_color=ffffff&color=0f172a&line=2563eb&point=000000&area=true&hide_border=true"
-    />
-
-    <img
-      width="95%"
-      src="https://github-readme-activity-graph.vercel.app/graph?username=mudassirfaaiz15"
-    />
-
-  </picture>
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mudassirfaaiz15&custom_title=Mudassir%20Faaiz%20Contribution%20Graph&bg_color=00000000&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true"
+    width="95%"
+  />
 </p>
 
 ---
@@ -258,23 +195,9 @@ Aditya Engineering College
 
 <p align="center">
   <picture>
-
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/mudassirfaaiz15/mudassirfaaiz15/output/github-contribution-grid-snake-dark.svg"
-    />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/mudassirfaaiz15/mudassirfaaiz15/output/github-contribution-grid-snake.svg"
-    />
-
-    <img
-      alt="github contribution snake animation"
-      src="https://raw.githubusercontent.com/mudassirfaaiz15/mudassirfaaiz15/output/github-contribution-grid-snake-dark.svg"
-      width="95%"
-    />
-
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mudassirfaaiz15/mudassirfaaiz15/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mudassirfaaiz15/mudassirfaaiz15/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/mudassirfaaiz15/mudassirfaaiz15/output/github-contribution-grid-snake-dark.svg" width="95%">
   </picture>
 </p>
 
