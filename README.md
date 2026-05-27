@@ -169,13 +169,13 @@ Aditya Engineering College
 ## GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mudassirfaaiz15&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mudassirfaaiz15&show_icons=true&theme=transparent&hide_border=true" />
 
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mudassirfaaiz15&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mudassirfaaiz15&theme=transparent&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudassirfaaiz15&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudassirfaaiz15&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ---
@@ -184,7 +184,7 @@ Aditya Engineering College
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=mudassirfaaiz15&custom_title=Mudassir%20Faaiz%20Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mudassirfaaiz15&custom_title=Mudassir%20Faaiz%20Contribution%20Graph&bg_color=00000000&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true"
     width="95%"
   />
 </p>
@@ -194,21 +194,11 @@ Aditya Engineering College
 ## Contribution Snake
 
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/mudassirfaaiz15/mudassirfaaiz15/output/github-contribution-grid-snake-dark.svg"
-    width="95%"
-  />
-</p>
-
----
-
-## GitHub Achievements
-
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=mudassirfaaiz15&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=1"
-    width="95%"
-  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mudassirfaaiz15/mudassirfaaiz15/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mudassirfaaiz15/mudassirfaaiz15/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/mudassirfaaiz15/mudassirfaaiz15/output/github-contribution-grid-snake-dark.svg" width="95%">
+  </picture>
 </p>
 
 ---
